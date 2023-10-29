@@ -1,0 +1,91 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman Update",
+      "alterEgo": "Princess Diana"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "aswassaw227@gmail.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "angular",
+        "react",
+        "vue"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "green"
+    },
+    {
+      "id": 3,
+      "label": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "blue"
+    },
+    {
+      "id": 5,
+      "label": "pink"
+    },
+    {
+      "id": 6,
+      "label": "black"
+    },
+    {
+      "id": 7,
+      "label": "gray"
+    },
+    {
+      "id": 8,
+      "label": "brown"
+    },
+    {
+      "id": 9,
+      "label": "orange"
+    },
+    {
+      "id": 10,
+      "label": "skyblue"
+    }
+  ]
+}
